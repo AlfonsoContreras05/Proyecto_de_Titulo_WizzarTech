@@ -107,6 +107,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 yaml
 Copiar código
 
----
 
-Este archivo README debería ser mucho más fácil de leer en GitHub, ya que el uso correcto de encabezados (`#`), separadores (`---`), y listas hace que el contenido se vea más organizado en la vista de código. Además, los íconos y los textos se mantienen bien espaciados, ayudando a una mejor presentación. 😊
