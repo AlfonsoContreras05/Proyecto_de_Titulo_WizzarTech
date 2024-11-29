@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+🌟 WizzardTech 🌟
+Sistema de Cotizaciones y Administración de Productos, Clientes y Ventas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📋 Descripción del Proyecto
+WizzardTech es un sistema integral diseñado para gestionar cotizaciones, productos, clientes y ventas de forma eficiente. Este proyecto tiene como objetivo simplificar la administración comercial mediante una interfaz intuitiva y funcionalidades personalizables, adaptadas a las necesidades del negocio.
 
-## Available Scripts
+🚀 Características Principales
+📊 Gestión de cotizaciones: Creación, edición y almacenamiento de cotizaciones detalladas.
+🛒 Administración de productos y stock: Registro y seguimiento del inventario.
+🧾 Control de ventas: Historial de transacciones y reportes dinámicos.
+👥 Gestión de clientes: Base de datos de clientes con información relevante.
+🔒 Control de usuarios: Roles y permisos personalizados para garantizar seguridad.
+📈 Reportes y estadísticas: Visualización de métricas clave en tiempo real.
+🛠️ Tecnologías Utilizadas
+Frontend: HTML5, CSS3, JavaScript (con diseño responsivo).
+Backend: PHP con base de datos MySQL.
+Servidor Local: XAMPP para desarrollo y pruebas locales.
+Otros: Librerías modernas para gráficos y reportes.
+🌟 Capturas de Pantalla
+Panel de Inicio
 
-In the project directory, you can run:
+Módulo de Cotizaciones
 
-### `npm start`
+(Reemplaza las imágenes con capturas reales del proyecto.)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🔧 Instalación y Configuración
+Clona el repositorio:
+bash
+Copiar código
+git clone https://github.com/tu-usuario/wizzardtech.git
+Configura el servidor local con XAMPP:
+Coloca el proyecto en la carpeta htdocs.
+Inicia Apache y MySQL desde el panel de control de XAMPP.
+Importa la base de datos:
+Accede a phpMyAdmin y crea una base de datos llamada wizzardtech_db.
+Importa el archivo wizzardtech_db.sql desde la carpeta /database.
+Configura las credenciales de la base de datos en el archivo /config/db.php.
+Accede al sistema desde tu navegador en http://localhost/wizzardtech.
+🛡️ Contribuciones
+¡Las contribuciones son bienvenidas! Por favor, sigue estos pasos:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Haz un fork del proyecto.
+Crea una rama para tu funcionalidad (feature/nueva-funcionalidad).
+Realiza un pull request con una descripción detallada.
+📩 Contacto
+Si tienes dudas o sugerencias, no dudes en contactarnos:
+📧 Correo: soporte@wizzardtech.com
+🌐 Web: www.wizzardtech.com
 
-### `npm test`
+© Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🌟 Nota Final
+Gracias por interesarte en WizzardTech. Este proyecto es más que un sistema: es una solución pensada para simplificar la vida de los negocios modernos. ¡Esperamos que te sea útil! ✨
