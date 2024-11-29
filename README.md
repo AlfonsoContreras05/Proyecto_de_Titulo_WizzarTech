@@ -1,36 +1,56 @@
-🧙‍♂️ WizzardTech
-Sistema de Cotizaciones y Administración de Productos, Clientes y Ventas
+# 🧙‍♂️ WizzardTech  
+**Sistema de Cotizaciones y Administración de Productos, Clientes y Ventas**
 
-WizzardTech es una plataforma integral para la gestión comercial, desarrollada para optimizar la administración de cotizaciones, productos, clientes y ventas. Utiliza tecnologías modernas para proporcionar una experiencia intuitiva y eficiente a los usuarios, permitiendo una gestión rápida y centralizada de toda la información relevante.
+---
 
-🛠️ Tecnologías Utilizadas
+**WizzardTech** es una plataforma integral para la gestión comercial, desarrollada para optimizar la administración de cotizaciones, productos, clientes y ventas. Utiliza tecnologías modernas para proporcionar una experiencia intuitiva y eficiente a los usuarios, permitiendo una gestión rápida y centralizada de toda la información relevante.
 
+---
 
-🏗️ Estructura del Proyecto
+## 🛠️ Tecnologías Utilizadas  
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/xampp-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
+
+---
+
+## 🏗️ Estructura del Proyecto  
+
 El proyecto está dividido en dos partes principales:
 
-1. Frontend (Cliente)
-Framework: HTML5, CSS3, JavaScript.
-Objetivo: Proporcionar una interfaz de usuario sencilla e intuitiva para gestionar productos, clientes, cotizaciones y ventas.
-2. Backend (Servidor)
-Framework: PHP.
-Base de Datos: MySQL mediante XAMPP.
-Objetivo: Proveer una API RESTful para la gestión de datos, autenticación y seguridad del sistema.
-📂 Estructura de Carpetas
-/frontend/: Contiene todo el código relacionado con el cliente.
-/backend/: Contiene todo el código para el backend y la API.
-/database/: Incluye el archivo SQL para la base de datos y scripts de configuración.
-/docs/: Aquí se almacena toda la documentación técnica y funcional del proyecto.
-🚀 Instalación y Ejecución
-Requisitos del Sistema
-XAMPP: Para ejecutar el servidor local y gestionar la base de datos.
-Navegador Web: Cualquier navegador actualizado (Chrome, Firefox, Edge, etc.).
-Pasos de Instalación
-Clona el repositorio:
+### **1. Frontend (Cliente)**
+- **Framework:** HTML5, CSS3, JavaScript.
+- **Objetivo:** Proporcionar una interfaz de usuario sencilla e intuitiva para gestionar productos, clientes, cotizaciones y ventas.
 
-bash
-Copiar código
-git clone https://github.com/tu-usuario/wizzardtech.git
+### **2. Backend (Servidor)**
+- **Framework:** PHP.
+- **Base de Datos:** MySQL mediante XAMPP.
+- **Objetivo:** Proveer una API RESTful para la gestión de datos, autenticación y seguridad del sistema.
+
+---
+
+## 📂 Estructura de Carpetas  
+- **`/frontend/`**: Contiene todo el código relacionado con el cliente.
+- **`/backend/`**: Contiene todo el código para el backend y la API.
+- **`/database/`**: Incluye el archivo SQL para la base de datos y scripts de configuración.
+- **`/docs/`**: Aquí se almacena toda la documentación técnica y funcional del proyecto.
+
+---
+
+## 🚀 Instalación y Ejecución  
+
+### **Requisitos del Sistema**  
+- **XAMPP:** Para ejecutar el servidor local y gestionar la base de datos.
+- **Navegador Web**: Cualquier navegador actualizado (Chrome, Firefox, Edge, etc.).
+
+### **Pasos de Instalación**  
+1. **Clona el repositorio**:  
+   ```bash
+   git clone https://github.com/tu-usuario/wizzardtech.git
 Configura el entorno local con XAMPP:
 
 Copia los archivos del proyecto a la carpeta htdocs de XAMPP.
@@ -83,3 +103,10 @@ Para más información o para reportar problemas, puedes contactarnos:
 
 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+yaml
+Copiar código
+
+---
+
+Este archivo README debería ser mucho más fácil de leer en GitHub, ya que el uso correcto de encabezados (`#`), separadores (`---`), y listas hace que el contenido se vea más organizado en la vista de código. Además, los íconos y los textos se mantienen bien espaciados, ayudando a una mejor presentación. 😊
