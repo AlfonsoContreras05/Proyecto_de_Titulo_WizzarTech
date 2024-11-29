@@ -1,0 +1,27 @@
+/* DashboardCharts.css */
+
+:root{
+    --dark: #16191c;
+    --dark-x: #1e2126;
+    --ligth: #ffffff;
+}
+.bg-dark {
+    background-color: #2d3748 !important;
+}
+
+.card-title {
+    font-size: 1.25rem; /* 20px */
+    font-weight: 600;
+}
+
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+}
+
+.btn-danger {
+    background-color: #e53e3e;
+    border-color: #e53e3e;
+}
+
+/* Add additional styles as needed */

@@ -1,0 +1,53 @@
+:root {
+    --dark: #16191c;
+    --dark-x: #1e2126;
+    --light: #ffffff;
+}
+
+.bg-dark {
+    background-color: var(--dark) !important;
+}
+
+.bg-dark-x {
+    background-color: var(--dark-x);
+}
+
+.container{
+        
+    align-items: center;
+    padding: auto;
+    width: auto;
+
+}
+
+.container-p {
+    margin: 5% auto;
+    background-color: var(--dark) !important;
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Cambia el número de columnas según el ancho */
+    gap: 20px; /* Espacio entre las columnas */
+    
+}
+
+.chart-container {
+    background-color: var(--dark-x);
+    padding: 10px;
+    border-radius: 4px;
+    color: var(--light);
+    
+}
+
+
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* Cambia a una sola columna en pantallas más pequeñas */
+    }
+
+    .chart-container {
+        margin-bottom: 20px; /* Añade espacio entre los gráficos en pantallas más pequeñas */
+    }
+}

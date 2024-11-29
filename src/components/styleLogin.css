@@ -1,0 +1,47 @@
+:root{
+    --dark: #16191c;
+    --dark-x: #1e2126;
+    --ligth: #ffffff;
+}
+
+body{
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 300;
+    color: var(--ligth);
+}
+
+
+.bg-dark{ background-color: var(--dark) !important;}
+.bg-dark-x{background-color: var(--dark-x);}
+
+.form-label {
+    color: white;
+    font-family: 'League Spartan', sans-serif;
+}
+
+
+
+.form-control, .btn{
+    min-height: 3.125rem;
+    line-height: initial;
+
+}
+
+.img-1{
+    background-image: url(../img/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.img-2{
+    background-image: url(../img/wallpaperbetter.com_3840x2160_2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-3{
+    background-image: url(../img/wallpaperbetter.com_3840x2160.jpg);
+    background-size: cover;
+    background-position: center;
+}

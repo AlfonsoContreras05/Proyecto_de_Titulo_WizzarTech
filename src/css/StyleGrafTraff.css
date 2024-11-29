@@ -1,0 +1,39 @@
+/* TrafficChart.css */
+.card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 6px 10px rgba(0,0,0,.1);
+    margin: 20px 0;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .card-subtitle {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .btn-outline-secondary {
+    color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .text-center h5 {
+    color: #333;
+    margin-top: 0.5rem;
+  }
+  
+  .text-center p {
+    color: #6c757d;
+  }
+  

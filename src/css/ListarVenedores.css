@@ -1,0 +1,17 @@
+.custom-table .odd-row {
+    background-color: #9f9f9f;
+    
+  }
+  
+  .custom-table .even-row {
+    background-color: #343434;
+  }
+  
+  .btn-custom {
+    margin-right: 5px;
+    padding: 5px 10px;
+    font-size: 0.9em;
+  }
+  
+  /* Agrega estilos adicionales según tus preferencias */
+  
