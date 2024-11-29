@@ -1,4 +1,4 @@
-🌟 WizzardTech 🌟
+🌟 WizzardTech
 Sistema de Cotizaciones y Administración de Productos, Clientes y Ventas
 
 📋 Descripción del Proyecto
@@ -25,17 +25,27 @@ Módulo de Cotizaciones
 
 🔧 Instalación y Configuración
 Clona el repositorio:
+
 bash
 Copiar código
 git clone https://github.com/tu-usuario/wizzardtech.git
 Configura el servidor local con XAMPP:
+
 Coloca el proyecto en la carpeta htdocs.
 Inicia Apache y MySQL desde el panel de control de XAMPP.
 Importa la base de datos:
+
 Accede a phpMyAdmin y crea una base de datos llamada wizzardtech_db.
 Importa el archivo wizzardtech_db.sql desde la carpeta /database.
-Configura las credenciales de la base de datos en el archivo /config/db.php.
-Accede al sistema desde tu navegador en http://localhost/wizzardtech.
+Configura las credenciales de la base de datos:
+
+Edita el archivo /config/db.php con los datos correspondientes.
+Accede al sistema:
+
+Abre tu navegador y visita:
+arduino
+Copiar código
+http://localhost/wizzardtech
 🛡️ Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, sigue estos pasos:
 
@@ -44,6 +54,7 @@ Crea una rama para tu funcionalidad (feature/nueva-funcionalidad).
 Realiza un pull request con una descripción detallada.
 📩 Contacto
 Si tienes dudas o sugerencias, no dudes en contactarnos:
+
 📧 Correo: soporte@wizzardtech.com
 🌐 Web: www.wizzardtech.com
 
@@ -52,3 +63,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 🌟 Nota Final
 Gracias por interesarte en WizzardTech. Este proyecto es más que un sistema: es una solución pensada para simplificar la vida de los negocios modernos. ¡Esperamos que te sea útil! ✨
+
